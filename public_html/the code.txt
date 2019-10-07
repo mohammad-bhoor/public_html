@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+<title>about me page</title>
+</head>
+<body  style="background-color:gray" >
+<h1 style="color:skyblue">abot me</h1>
+<br>
+<h3>my name is : mohammad y albhoor and my birth day is 14/2/1998 </h3>
+<p>my major<strong style="color:yellow"> computer engineering</strong> and i am in the 4th year in alquds university<br>
+i like <b style="color:yellow"> drifting</b> and  <b style="color:yellow"> swiming</b>
+ </p>
+<br>
+<div class="3">
+  <h1 style="color:skyblue">here is my courses in this semester</h1>
+  <ol>
+    <li>operating system</li>
+    <li>data communication</li>
+    <li>web</li>
+    <li>vlsi</li>
+  </ol>
+</div>
+<div class="2">
+  <h1 style="color:skyblue">my favorite move </h1>
+  <p>this is my favorite move if you are intresting you can watch it by using this links:</p>
+  <ul>
+    <li>the plue elephant:-<a href="url"  style="color:red">(https://www.youtube.com/watch?v=NXBKFYjMGbs)</a><li>
+  mission impossible 6 move:-<a href="url"  style="color:red">(https://youtube.com/results?search_query=mission+impossible+move)</a>
+      </ul>
+</div>
+<div class="1">
+  <h1 style="color:skyblue">facts about me :</h1>
+  when i drive the car i feel excited<img src="downloadman.jpg " alt="Italian Trulli">  but when i miss the car i feel bored <img src="download.jpg" alt="Italian Trulli">
+<div class="0">
+  <h1 style="color:skyblue">fun facts about my naighbors:</h1>
+  <ul>
+    <li> they are always fight eith each other for nothing hhhhh</li>
+  <li>  they have a fun weddings </li>
+  </ul>
+
+</div>
+
+</div>
+<p>
+<a href="http://validator.w3.org/check/referer">
+<img src="http://www.w3.org/Icons/valid-xhtml11"
+alt="Validate" />
+</a>
+</p>
+
+</body>
+</html>
